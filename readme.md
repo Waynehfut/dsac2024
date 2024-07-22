@@ -10,7 +10,8 @@ Clion
 
 ## 目录
 
-| 文件夹     | 内容 | 备注     | slides                          |
-|---------|----|--------|---------------------------------|
-| 01intro | 绪论 | 递归代码   | [DSA1-绪论](slides/dsa1intro.pdf) | 
-| 02list  | 表  | 相关实现代码 |
+### 绪论
+
+- [Code](01intro)
+- [DSA1-绪论](slides/dsa1intro.pdf)  
+
