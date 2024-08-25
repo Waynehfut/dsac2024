@@ -12,6 +12,8 @@ Clion
 
 ### 绪论
 
-- [Code](01intro)
-- [DSA1-绪论](slides/dsac_1intro.pdf)  
+| 章节   | 课件                               | 代码              | 标注 |
+|------|----------------------------------|-----------------|----|
+| 01绪论 | [slides](slides/dsac_1intro.pdf) | [Code](01intro) |    |
+
 
